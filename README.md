@@ -3,3 +3,5 @@ I need an input element and a submit button and a holder that shows the image wh
 so the input can be directly added to the api call url 
 
 so i need to obeserve the state change of an input and when a form is submitted # pokemon
+
+https://mellifluous-profiterole-2b3e8e.netlify.app/
